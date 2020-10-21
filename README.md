@@ -5,20 +5,20 @@ Here is a list of recent publications about ****.
 
 -- We will continue to add and update related papers and codes on this page.
 
--- <img src="images/code.png" width="20" align=center> indicates aviable code and <img src="images/hot.png" width="20" align=center> indicates high citation in recent years.
+-- indicates aviable code and indicates high citation in recent years.
 
-## <img src="images/new.png" width="25" align=center> Survey paper
+##  Survey paper
 
 [A Survey of knoweldge-enhanced Text Generation](https://arxiv.org/abs/2010.04389). Wenhao Yu (ND), Chenguang Zhu (Microsoft), Zaitang Li (CUHK), Zhiting Hu (UCSD), Qingyun Wang (UIUC), Heng Ji (UIUC), Meng Jiang (ND). arXiv. 2010.04389
 
 ## Basic NLG papers and codes
 (For new learners, some important papers for general NLG/KENLG.)
 
-- <img src="images/hot.png" width="20" align=center> [Seq2Seq] [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/pdf/1409.3215.pdf)
+- [Seq2Seq] [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/pdf/1409.3215.pdf)
 	- Ilya Sutskever (Google) et al, In NeurIPS 2014.
-- <img src="images/hot.png" width="20" align=center> [SeqAttn] [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473.pdf)
+- [SeqAttn] [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473.pdf)
 	- Dzmitry Bahdanau (Jacobs University) et al, In ICLR 2015.
-- <img src="images/hot.png" width="20" align=center> [CopyNet] [Incorporating Copying Mechanism in Sequence-to-Sequence Learning](https://arxiv.org/abs/1603.06393)
+- [CopyNet] [Incorporating Copying Mechanism in Sequence-to-Sequence Learning](https://arxiv.org/abs/1603.06393)
 	- Jiatao Gu (The University of Hong Kong) et al, In ACL 2016.
 - <img src="images/hot.png" width="20" align=center> [PointerNet] [Get To The Point: Summarization with Pointer-Generator Networks](https://arxiv.org/abs/1704.04368)
 	- Abigail See (Stanford University) et al, In ACL 2017.
