@@ -1,6 +1,6 @@
 # Knowledge-enhanced text generation
 
-Here is a list of recent publications about ****.
+Here is a list of recent publications about Knowledge-enhanced text generation.
 (Update on **Oct. 14th, 2020**) <br>
 
 -- We will continue to add and update related papers and codes on this page.
