@@ -1,7 +1,5 @@
 # Task-of-Text-Generation
 
-# Knowledge-enriched Text Generation Reading-List
-
 Here is a list of recent publications about **Knowledge-enhanced text generation**.
 (Update on **Oct. 14th, 2020**) <br>
 
