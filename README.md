@@ -20,23 +20,23 @@ Here is a list of recent publications about ****.
 	- Dzmitry Bahdanau (Jacobs University) et al, In ICLR 2015.
 - [CopyNet] [Incorporating Copying Mechanism in Sequence-to-Sequence Learning](https://arxiv.org/abs/1603.06393)
 	- Jiatao Gu (The University of Hong Kong) et al, In ACL 2016.
-- <img src="images/hot.png" width="20" align=center> [PointerNet] [Get To The Point: Summarization with Pointer-Generator Networks](https://arxiv.org/abs/1704.04368)
+- [PointerNet] [Get To The Point: Summarization with Pointer-Generator Networks](https://arxiv.org/abs/1704.04368)
 	- Abigail See (Stanford University) et al, In ACL 2017.
-- <img src="images/hot.png" width="20" align=center> [Transformer] [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+- [Transformer] [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 	- Ashish Vaswani (Google) et al, In NeurIPS 2017.
 
 ## Pretrained language generation models
-- <img src="images/code.png" width="20" align=center> <img src="images/hot.png" width="20" align=center>  [GPT-2] [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
+- [GPT-2] [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
 	- Alec Radford (OpenAI) et al, On OpenAI blog 2019. \[[official code](https://github.com/openai/gpt-2/blob/master/src/model.py)\](tensorflow) \[[huggingface](https://github.com/huggingface/transformers/tree/master/examples/language-modeling)\](pytorch)
-- <img src="images/code.png" width="20" align=center> <img src="images/hot.png" width="20" align=center> [UniLM] [Unified Language Model Pre-training for Natural Language Understanding and Generation](https://arxiv.org/abs/1905.03197)
+-[UniLM] [Unified Language Model Pre-training for Natural Language Understanding and Generation](https://arxiv.org/abs/1905.03197)
 	- Li Dong (Microsoft) et al, In NeurIPS 2019. \[[official code](https://github.com/microsoft/unilm)\](pytorch)
-- <img src="images/code.png" width="20" align=center> <img src="images/hot.png" width="20" align=center> [BART] [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/abs/1910.13461)
+- [BART] [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/abs/1910.13461)
 	- Mike Lewis (Facebook AI) et al, On arXiv 2019. \[[fairseq](https://github.com/pytorch/fairseq)\](pytorch) \[[huggingface](https://github.com/huggingface/transformers/tree/master/examples/seq2seq)\](pytorch)
-- <img src="images/code.png" width="20" align=center> <img src="images/hot.png" width="20" align=center> [T5] [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683)
+-[T5] [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683)
 	- Colin Raffel (Google) et al, In JMLR 2020. \[[official code](https://github.com/google-research/text-to-text-transfer-transformer)\](tensorflow) \[[huggingface](https://github.com/huggingface/transformers/tree/master/examples/seq2seq)\](pytorch)
 
 ## Controllable generation leanrng methods
-- <img src="images/hot.png" width="20" align=center>  [Posterior Regularization] [Deep Generative Models with Learnable Knowledge Constraints](http://papers.nips.cc/paper/8250-deep-generative-models-with-learnable-knowledge-constraints.pdf)
+-   [Posterior Regularization] [Deep Generative Models with Learnable Knowledge Constraints](http://papers.nips.cc/paper/8250-deep-generative-models-with-learnable-knowledge-constraints.pdf)
 	- Zhiting Hu (Carnegie Mellon University) et al, In NeurIPS 2018.
 - <img src="images/code.png" width="20" align=center> <img src="images/hot.png" width="20" align=center> [Plug and Play] [Plug and Play Language Models: A Simple Approach to Controlled Text Generation](https://arxiv.org/abs/1912.02164)
 	- Sumanth Dathathri (Uber AI) et al, In ICLR 2020. \[[code](https://github.com/uber-research/PPLM)\](pytorch)
