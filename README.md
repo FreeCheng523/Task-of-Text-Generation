@@ -174,4 +174,4 @@ Here is a list of recent publications about Knowledge-enhanced text generation.
 
 ## Acknowledgement
 
- This page is contributed by [Wenhao Yu](https://wyu97.github.io/)(wyu1@nd.edu) and [Qingyun Wang](https://eaglew.github.io/cv/)(qingyun4@illinois.edu).
+ This page is contributed by [Ziyou Cheng](https://FreeCheng523.github.io/)(levi1997523@gamil.com)
